@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]E:\zybo\pmod_ds18b20_V1\pmod_ds18b20_V1.sdk\FSLB\Debug\FSLB.elf
+	E:\zybo\pmod_ds18b20_V1\pmod_ds18b20_V1.runs\impl_1\PMOD_DS18B20_wrapper.bit
+	E:\zybo\pmod_ds18b20_V1\BOOT\u-boot.elf
+}

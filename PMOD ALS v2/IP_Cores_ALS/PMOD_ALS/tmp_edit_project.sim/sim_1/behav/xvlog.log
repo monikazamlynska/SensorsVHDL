@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/zybo/PMOD_ALS/IP_Cores_ALS/PMOD_ALS/src/PMOD_ALS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Pmod_ALS
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/zybo/PMOD_ALS/IP_Cores_ALS/PMOD_ALS/tmp_edit_project.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,27 @@
+19:37:19 INFO  : Registering command handlers for SDK TCF services
+19:37:21 INFO  : Launching XSCT server: xsct.bat -interactive E:\zybo\PMOD_COLOR\PMOD_COLOR.sdk\temp_xsdb_launch_script.tcl
+19:37:25 INFO  : XSCT server has started successfully.
+19:37:26 INFO  : Successfully done setting XSCT server connection channel  
+19:37:26 INFO  : Successfully done setting SDK workspace  
+19:37:26 INFO  : Restoring global repository preferences: 
+		 C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master
+19:37:26 WARN  : Invalid repository path C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master.
+19:37:26 INFO  : Processing command line option -hwspec E:/zybo/PMOD_COLOR/PMOD_COLOR.sdk/PMOD_COLOR_wrapper.hdf.
+19:41:33 INFO  : Invoking Bootgen: bootgen -image output.bif -arch zynq -o E:\zybo\PMOD_COLOR\BOOT\BOOT.bin
+19:41:33 INFO  : Creating new bif file E:\zybo\PMOD_COLOR\BOOT\output.bif
+19:41:37 INFO  : Bootgen command execution is done.
+20:37:57 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1619202919381,  Project:1619199279312
+20:37:57 INFO  : Project PMOD_COLOR_wrapper_hw_platform_0's source hardware specification located at E:/zybo/PMOD_COLOR/PMOD_COLOR.sdk/PMOD_COLOR_wrapper.hdf is now different from the local copy.
+		 The local copy will be replaced with the source specification and your workspace will be updated.
+20:38:19 INFO  : Project PMOD_COLOR_wrapper_hw_platform_0's source hardware specification location will not be monitored anymore.
+20:39:14 INFO  : Launching XSCT server: xsct.bat -interactive E:\zybo\PMOD_COLOR\PMOD_COLOR.sdk\temp_xsdb_launch_script.tcl
+20:39:19 INFO  : XSCT server has started successfully.
+20:39:19 INFO  : Successfully done setting XSCT server connection channel  
+20:39:21 INFO  : Successfully done setting SDK workspace  
+20:39:21 INFO  : Restoring global repository preferences: 
+		 C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master
+20:39:21 WARN  : Invalid repository path C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master.
+20:39:33 INFO  : Registering command handlers for SDK TCF services
+20:39:33 INFO  : Processing command line option -hwspec E:/zybo/PMOD_COLOR/PMOD_COLOR.sdk/PMOD_COLOR_wrapper.hdf.
+20:40:49 INFO  : Invoking Bootgen: bootgen -image output.bif -arch zynq -o E:\zybo\PMOD_COLOR\BOOT\BOOT.bin -w on
+20:40:53 INFO  : Bootgen command execution is done.

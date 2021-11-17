@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]E:\zybo\PMOD_ALS\BOOT\alsv2\FSLB.elf
+	E:\zybo\PMOD_ALS\BOOT\alsv2\POMOD_ALS_wrapper.bit
+	E:\zybo\PMOD_ALS\BOOT\alsv2\u-boot.elf
+}

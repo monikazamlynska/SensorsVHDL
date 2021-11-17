@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]E:\zybo\PMOD_MAXSONAR\PMOD_MAXSONAR.sdk\FSLB\Debug\FSLB.elf
+	E:\zybo\PMOD_MAXSONAR\PMOD_MAXSONAR.runs\impl_1\MAXONAR_wrapper.bit
+	E:\linux_example\u-boot-xlnx\u-boot.elf
+}

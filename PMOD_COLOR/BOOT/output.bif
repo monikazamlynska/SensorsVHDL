@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]E:\zybo\PMOD_COLOR\PMOD_COLOR.sdk\FSLB\Debug\FSLB.elf
+	E:\zybo\PMOD_COLOR\PMOD_COLOR.runs\impl_1\PMOD_COLOR_wrapper.bit
+	E:\zybo\PMOD_COLOR\BOOT\u-boot.elf
+}

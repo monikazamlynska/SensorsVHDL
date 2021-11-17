@@ -1,0 +1,41 @@
+""" PEP 610 """
+import json
+import re
+import urllib.parse
+from typing import Any, Dict, Iterable, Optional, Type, TypeVar, Union
+
+__all__ = [
+    "DirectUrl",
+    "DirectUrlValidationError",
+    "DirInfo",
+    "ArchiveInfo",
+    "VcsInfo",
+]
+
+T = TypeVar("T")
+
+DIRECT_URL_METADATA_NAME = "direct_url.json"
+ENV_VAR_RE = re.compile(r"^\$\{[A-Za-z0-9-_]+\}(:\$\{[A-Za-z0-9-_]+\})?$")
+
+
+class DirectUrlValidationError(Exception):
+    pass
+
+
+def _get(d, expected_type, key, default=None):
+    # type: (Dict[str, Any], Type[T], str, Optional[T]) -> Optional[T]
+    """Get value from dictionary and verify expected type."""
+    if key not in d:
+        return default
+    value = d[key]
+    if not isinstance(value, expected_type):
+        raise DirectUrlValidationError(
+            "{!r} has unexpected type for {} (expected {})".format(
+                value, key, expected_type
+            )
+        )
+    return value
+
+
+def _get_required(d, expected_type, key, default=None):
+    # type: (Dict[str, Any], Type[T], str

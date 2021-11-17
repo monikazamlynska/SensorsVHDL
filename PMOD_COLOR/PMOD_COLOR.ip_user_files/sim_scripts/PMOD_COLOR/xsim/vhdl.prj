@@ -1,0 +1,5 @@
+vhdl xil_defaultlib "../../../../PMOD_COLOR.srcs/sources_1/bd/PMOD_COLOR/ipshared/2f3a/src/i2c_master.vhd" 
+vhdl xil_defaultlib "../../../../PMOD_COLOR.srcs/sources_1/bd/PMOD_COLOR/ipshared/2f3a/src/pmod_color_sensor.vhd" 
+vhdl xil_defaultlib "../../../../PMOD_COLOR.srcs/sources_1/bd/PMOD_COLOR/ip/PMOD_COLOR_pmod_color_sensor_0_0/sim/PMOD_COLOR_pmod_color_sensor_0_0.vhd" 
+
+nosort

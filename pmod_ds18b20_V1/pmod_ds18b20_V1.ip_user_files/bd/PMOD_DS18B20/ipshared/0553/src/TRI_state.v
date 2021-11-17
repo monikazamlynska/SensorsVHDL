@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.014">
+    <g color="#000" font-weight="400" font-family="sans-serif" white-space="normal" fill="#474747">
+        <path d="M5.04 1.815a1 1 0 0 0-.546.14 7.009 7.009 0 0 0-3.254 7.87 7.006 7.006 0 0 0 6.75 5.19 7.007 7.007 0 0 0 6.766-5.17 7.01 7.01 0 0 0-3.233-7.88 1 1 0 1 0-1.007 1.729 4.991 4.991 0 0 1 2.308 5.627 4.99 4.99 0 0 1-4.832 3.693 4.989 4.989 0 0 1-4.82-3.707 4.992 4.992 0 0 1 2.324-5.62 1 1 0 0 0-.457-1.872z" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-set

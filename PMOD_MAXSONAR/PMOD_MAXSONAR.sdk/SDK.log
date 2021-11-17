@@ -1,0 +1,68 @@
+17:46:50 INFO  : Registering command handlers for SDK TCF services
+17:46:52 INFO  : Launching XSCT server: xsct.bat -interactive E:\zybo\PMOD_MAXSONAR\PMOD_MAXSONAR.sdk\temp_xsdb_launch_script.tcl
+17:46:55 INFO  : XSCT server has started successfully.
+17:46:55 INFO  : Successfully done setting XSCT server connection channel  
+17:46:56 INFO  : Successfully done setting SDK workspace  
+17:46:56 INFO  : Restoring global repository preferences: 
+		 C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master
+17:46:56 WARN  : Invalid repository path C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master.
+17:46:56 INFO  : Processing command line option -hwspec E:/zybo/PMOD_MAXSONAR/PMOD_MAXSONAR.sdk/MAXONAR_wrapper.hdf.
+17:57:36 INFO  : Invoking Bootgen: bootgen -image output.bif -arch zynq -o E:\zybo\PMOD_MAXSONAR\BOOT\BOOT.bin
+17:57:36 INFO  : Creating new bif file E:\zybo\PMOD_MAXSONAR\BOOT\output.bif
+17:57:39 INFO  : Bootgen command execution is done.
+17:57:05 INFO  : Launching XSCT server: xsct.bat -interactive E:\zybo\PMOD_MAXSONAR\PMOD_MAXSONAR.sdk\temp_xsdb_launch_script.tcl
+17:57:08 INFO  : XSCT server has started successfully.
+17:57:08 INFO  : Successfully done setting XSCT server connection channel  
+17:57:11 INFO  : Successfully done setting SDK workspace  
+17:57:11 INFO  : Restoring global repository preferences: 
+		 C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master
+17:57:11 WARN  : Invalid repository path C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master.
+17:57:18 INFO  : Registering command handlers for SDK TCF services
+17:57:18 INFO  : Processing command line option -hwspec E:/zybo/PMOD_MAXSONAR/PMOD_MAXSONAR.sdk/MAXONAR_wrapper.hdf.
+17:57:19 INFO  : Checking for hwspec changes in the project MAXONAR_wrapper_hw_platform_0.
+18:14:21 INFO  : Launching XSCT server: xsct.bat -interactive E:\zybo\PMOD_MAXSONAR\PMOD_MAXSONAR.sdk\temp_xsdb_launch_script.tcl
+18:14:26 INFO  : XSCT server has started successfully.
+18:14:26 INFO  : Successfully done setting XSCT server connection channel  
+18:14:27 INFO  : Successfully done setting SDK workspace  
+18:14:27 INFO  : Restoring global repository preferences: 
+		 C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master
+18:14:27 WARN  : Invalid repository path C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master.
+18:14:35 INFO  : Registering command handlers for SDK TCF services
+18:14:35 INFO  : Processing command line option -hwspec E:/zybo/PMOD_MAXSONAR/PMOD_MAXSONAR.sdk/MAXONAR_wrapper.hdf.
+18:14:36 INFO  : Checking for hwspec changes in the project MAXONAR_wrapper_hw_platform_0.
+18:14:36 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1621700006803,  Project:1618933449466
+18:14:36 INFO  : The hardware specification for project 'MAXONAR_wrapper_hw_platform_0' is different from E:/zybo/PMOD_MAXSONAR/PMOD_MAXSONAR.sdk/MAXONAR_wrapper.hdf.
+18:14:36 INFO  : Copied contents of E:/zybo/PMOD_MAXSONAR/PMOD_MAXSONAR.sdk/MAXONAR_wrapper.hdf into \MAXONAR_wrapper_hw_platform_0\system.hdf.
+18:15:12 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+18:15:18 INFO  : 
+18:15:19 INFO  : Updating hardware inferred compiler options for FSLB.
+18:15:20 INFO  : Clearing existing target manager status.
+18:15:22 INFO  : Closing and re-opening the MSS file of ther project FSLB_bsp
+18:15:25 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+18:15:26 WARN  : Linker script will not be updated automatically. Users need to update it manually.
+18:18:09 INFO  : Invoking Bootgen: bootgen -image output.bif -arch zynq -o E:\zybo\PMOD_MAXSONAR\BOOT\BOOT.bin -w on
+18:18:12 INFO  : Bootgen command execution is done.
+18:18:37 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+20:28:05 INFO  : Launching XSCT server: xsct.bat -interactive E:\zybo\PMOD_MAXSONAR\PMOD_MAXSONAR.sdk\temp_xsdb_launch_script.tcl
+20:28:08 INFO  : XSCT server has started successfully.
+20:28:08 INFO  : Successfully done setting XSCT server connection channel  
+20:28:09 INFO  : Successfully done setting SDK workspace  
+20:28:09 INFO  : Restoring global repository preferences: 
+		 C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master
+20:28:09 WARN  : Invalid repository path C:\Users\gonsk\OneDrive\Pulpit\device-tree-xlnx-master.
+20:28:17 INFO  : Registering command handlers for SDK TCF services
+20:28:17 INFO  : Processing command line option -hwspec E:/zybo/PMOD_MAXSONAR/PMOD_MAXSONAR.sdk/MAXONAR_wrapper.hdf.
+20:28:18 INFO  : Checking for hwspec changes in the project MAXONAR_wrapper_hw_platform_0.
+20:28:18 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1621707514976,  Project:1621700006803
+20:28:18 INFO  : The hardware specification for project 'MAXONAR_wrapper_hw_platform_0' is different from E:/zybo/PMOD_MAXSONAR/PMOD_MAXSONAR.sdk/MAXONAR_wrapper.hdf.
+20:28:19 INFO  : Copied contents of E:/zybo/PMOD_MAXSONAR/PMOD_MAXSONAR.sdk/MAXONAR_wrapper.hdf into \MAXONAR_wrapper_hw_platform_0\system.hdf.
+20:28:29 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+20:28:35 INFO  : 
+20:28:37 INFO  : Updating hardware inferred compiler options for FSLB.
+20:28:37 INFO  : Clearing existing target manager status.
+20:28:38 INFO  : Closing and re-opening the MSS file of ther project FSLB_bsp
+20:28:41 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+20:28:42 WARN  : Linker script will not be updated automatically. Users need to update it manually.
+20:30:20 INFO  : Invoking Bootgen: bootgen -image output.bif -arch zynq -o E:\zybo\PMOD_MAXSONAR\BOOT\BOOT.bin -w on
+20:30:23 INFO  : Bootgen command execution is done.
+20:31:11 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 

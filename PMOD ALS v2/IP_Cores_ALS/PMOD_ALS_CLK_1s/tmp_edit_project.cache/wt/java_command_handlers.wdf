@@ -1,0 +1,7 @@
+></div><div role="tabpanel" id="expand_panel_body_bub8wsh-1_sep_shared-Interruptible" aria-labelledby="expand_panel_heading_bub8wsh-1_sep_shared-Interruptible" class="panel-collapse collapse"><div class="panel-body">
+<p>Callback interruption, specified as <code class="literal">'on'</code> or <code class="literal">'off'</code>, or as
+            numeric or logical <code class="literal">1</code> (<code class="literal">true</code>) or
+                <code class="literal">0</code> (<code class="literal">false</code>). A value of <code class="literal">'on'</code>
+            is equivalent to <code class="literal">true</code>, and <code class="literal">'off'</code> is equivalent to
+                <code class="literal">false</code>. Thus, you can use the value of this property as a logical
+    

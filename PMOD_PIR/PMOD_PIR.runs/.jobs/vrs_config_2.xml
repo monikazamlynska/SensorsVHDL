@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="PMOD_PIR_PMOD_PIR_0_1_synth_1" LaunchDir="E:/zybo/PMOD_PIR/PMOD_PIR.runs/PMOD_PIR_PMOD_PIR_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+

@@ -1,0 +1,171 @@
+Recursively (deep) clone JavaScript native types
+Description-md5: 677259590daa45b10972a91d4699bcf5
+
+Package: node-clone-stats
+Architecture: all
+Version: 1.0.0-1
+Priority: optional
+Section: universe/web
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 15
+Depends: nodejs
+Filename: pool/universe/n/node-clone-stats/node-clone-stats_1.0.0-1_all.deb
+Size: 3042
+MD5sum: f42d8221fd5587b742b7856a0e4da040
+SHA1: 7993a92a2ce461e816d32221bab9f0cda8f0b49b
+SHA256: 35254bbcf8fc00c76c6c5e56a8ffca5be5e9097cfe361acd0ab2fa9901283256
+Homepage: https://github.com/hughsk/clone-stats
+Description: Safely clone node's fs.Stats instances without losing their class methods
+Description-md5: db4340b0a91124af6f20378500439cc6
+
+Package: node-cloneable-readable
+Architecture: all
+Version: 1.0.0-1
+Priority: optional
+Section: universe/web
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 18
+Depends: nodejs, node-inherits (>= 2.0.1), node-process-nextick-args (>= 1.0.6), node-through2 (>= 2.0.1)
+Filename: pool/universe/n/node-cloneable-readable/node-cloneable-readable_1.0.0-1_all.deb
+Size: 3882
+MD5sum: 98757e3b40db0785652ee184c07f592e
+SHA1: 2ecf48167cb7783dd5f20b0fc10a6b72d8f0e39a
+SHA256: 35ad6cefb25907038dccfb2964a36c22e6c0fea61644a58f016593f320e1902b
+Homepage: https://github.com/mcollina/cloneable-readable#readme
+Description: clone a Readable stream, safely
+Description-md5: 36ac1ae4ef68a308793c9edec04eff8f
+
+Package: node-co
+Architecture: all
+Version: 4.6.0-1
+Priority: optional
+Section: universe/web
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 24
+Depends: nodejs
+Filename: pool/universe/n/node-co/node-co_4.6.0-1_all.deb
+Size: 6220
+MD5sum: 6c2035f26329291ebc029d47717eb533
+SHA1: 321ba781d8ddc9a4653ae9aa82740dc7fd898d78
+SHA256: 764b108fead1a39e389a2867cd940e995ccbc670d2636b4925f953f4fc865de4
+Homepage: https://github.com/tj/co#readme
+Description: generator async control flow goodness
+Description-md5: b7189a8037ece2c3b0ad9428e2f5feca
+
+Package: node-coa
+Architecture: all
+Version: 2.0.0-1
+Priority: optional
+Section: universe/javascript
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 58
+Depends: nodejs, node-q (>= 1.1.2)
+Filename: pool/universe/n/node-coa/node-coa_2.0.0-1_all.deb
+Size: 14484
+MD5sum: 163813edbbb5f5aeb38be481de22e780
+SHA1: c9bdeb0fb67bb6acd3ae7c8541f46b0bf3a8cc6c
+SHA256: 2ea4fc76e3dab931375a0788ce9940e8802af696766a4c1e105ddcc8b0c9a3c3
+Homepage: http://github.com/veged/coa
+Description: Yet another parser for command line options
+Description-md5: f80fa9f9f293835e0f38e9e9a507ea15
+
+Package: node-coffeeify
+Architecture: all
+Version: 2.1.0-1
+Priority: extra
+Section: universe/web
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 30
+Depends: nodejs, coffeescript (>= 1.12.0), node-through2 (>= 2.0.0), node-convert-source-map (>= 1.3.0)
+Filename: pool/universe/n/node-coffeeify/node-coffeeify_2.1.0-1_all.deb
+Size: 6116
+MD5sum: cd3cc0ab6231d0d520ed7c0a09356c46
+SHA1: ce7647743788498b314b4f1907a6b605f6943516
+SHA256: 83714cd04105e2a423c180f7061e28d690454e1019ab976c086b3034378411f2
+Homepage: https://github.com/jnordberg/coffeeify
+Description: browserify plugin for coffee-script
+Description-md5: 2b409031054f7a65676985077b7e044a
+
+Package: node-collection-visit
+Architecture: all
+Version: 1.0.0-1
+Priority: optional
+Section: universe/web
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 19
+Depends: nodejs, node-object-visit (>= 1.0.0), node-map-visit (>= 1.0.0)
+Filename: pool/universe/n/node-collection-visit/node-collection-visit_1.0.0-1_all.deb
+Size: 4516
+MD5sum: a380ed270178d9d25010a0bf4899ddcd
+SHA1: 48a83c3f82124cff0e6cd90edc213cd3d5187327
+SHA256: a97056b136266015b6337aed14b22d6d8e7a737c2dd2cb925cce15b86b939a81
+Homepage: https://github.com/jonschlinkert/collection-visit
+Description: Visit a method over items in object, or map visit over the objects
+Description-md5: a32fe45b20ca0a315ec485bdf8e86108
+
+Package: node-color
+Architecture: all
+Version: 2.0.0-1
+Priority: optional
+Section: universe/javascript
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 28
+Depends: nodejs, node-color-string (>= 1.4.0), node-color-convert (>= 1.8.2)
+Filename: pool/universe/n/node-color/node-color_2.0.0-1_all.deb
+Size: 6808
+MD5sum: 5c4735ff11e489b1acd16ef6e0c6f3ea
+SHA1: 06f319aeedbed31460ebd1aced2b3551e2ce5289
+SHA256: 87d5b19072328c350000b0a2492a8e8b810bbbc3a7434a8947549d1718dc5597
+Homepage: https://github.com/Qix-/color#readme
+Description: Color conversion and manipulation with CSS string support
+Description-md5: 4bda4782077987e1e18ce3eba7242ac2
+
+Package: node-color-convert
+Architecture: all
+Version: 1.9.0-2build2
+Priority: optional
+Section: universe/web
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Bugs: https://bugs.launchpad.net/ubuntu/+filebug
+Installed-Size: 38
+Depends: nodejs, node-color-name (>= 1.1.1)
+Filename: pool/universe/n/node-color-convert/node-color-convert_1.9.0-2build2_all.deb
+Size: 9500
+MD5sum: 4ff275d9803df58faaf492d54324064c
+SHA1: 989e44142e0fc58d841b7ca2bf1d06671bc2cc21
+SHA256: f463976663b5bce1f3d46ee84170898d5129aad859c10d890c04b6d45bc297ea
+Homepage: https://github.com/qix-/color-convert#readme
+Description: Plain color conversion functions
+Description-md5: f3900926d9f98371cc6832c64a3d3f78
+
+Package: node-color-name
+Architecture: all
+Version: 1.1.3-1
+Priority: optional
+Section: universe/web
+Origin: Ubuntu
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian 
